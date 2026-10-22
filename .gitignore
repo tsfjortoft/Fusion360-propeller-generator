@@ -1,0 +1,10 @@
+# Miljø og editor
+.env
+.venv/
+.vscode/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
